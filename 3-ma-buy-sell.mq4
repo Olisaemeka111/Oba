@@ -1,9 +1,6 @@
 //+--------------------------------------------------------------------------+
-//| 3 MA Cross w_Alert v2.mq4                                                |
-//| Copyright © 2005, Jason Robinson (jnrtrading)                            |
-//| http://www.jnrtading.co.uk                                               |
-//| 3 ma conversion and Alert , David Honeywell , transport.david@gmail.com  |
-//| http://finance.groups.yahoo.com/group/MetaTrader_Experts_and_Indicators/ |
+//|                                               |
+/ http://finance.groups.yahoo.com/group/MetaTrader_Experts_and_Indicators/ |
 //+--------------------------------------------------------------------------+
 /*
   +-------------------------------------------------------------------------------+
@@ -11,7 +8,7 @@
   | which point the 2 faster ma's "OPEN" are both above or below the Slowest ma . |
   +-------------------------------------------------------------------------------+
 */   
-#property copyright "Copyright © 2005, Jason Robinson (jnrtrading)"
+#property copyright "Copyright Â© 2005, Jason Robinson (jnrtrading)"
 #property link      "http://www.jnrtrading.co.uk"
 //----
 #property indicator_chart_window
@@ -138,4 +135,5 @@ int start()
    //Comment("");   
    return(0);
  }
+
  //-------------------------------------------------------+
