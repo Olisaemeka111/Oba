@@ -1,15 +1,13 @@
-#property link "http://www.forex-instruments.info"
+#
 //+----------------------------------------------------------------------+
-//|                                                    4_MA_Strength.mq4 |
-//|        Copyright © 2006 , kurkafund on 11/05/2006 by David Honeywell |
-//|                      kurkafund@yahoo.com , transport.david@gmail.com |
+//|                                                     |
 //+----------------------------------------------------------------------+
 
 #property copyright ""
 #property link      ""
 
 //+--------------------------------------------------------------------------------------------------------------------+
-//|                            Custom Built For kurkafund on 11/05/2006 by David Honeywell , transport.david@gmail.com |
+//|                             |
 //+--------------------------------------------------------------------------------------------------------------------+
 
 #property indicator_separate_window
@@ -136,4 +134,5 @@ int start()
 //----
    return(0);
   }
+
 //+------------------------------------------------------------------+
